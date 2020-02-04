@@ -1,0 +1,4 @@
+Passo 1 - Desenvolver ou obter um site que possua as 4 funções do crud.
+Passo 2 - Colocar para funcionar no apache (utilizando IP) em http/https.
+Passo 3 - Configurar DNS para acesso por URL.
+Passo 4 - Configurar máquina física para utilizar servidor DNS da máquina virtual.
